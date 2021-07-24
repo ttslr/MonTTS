@@ -9,7 +9,7 @@ This project uses `conda` to manage all the dependencies, you should install [an
 
 ```bash
 # Clone the repo
-git clone https://github.com/ttslr/CAccentTTS.git
+git clone https://github.com/ttslr/MonTTS.git
 cd $PROJECT_ROOT_DIR
 ```
 
