@@ -20,7 +20,7 @@ conda env create -f environment.yml
 
 ### Activate the installed environment
 ```bash
-conda activate accenttts
+conda activate montts
 ```
 
 
@@ -71,7 +71,7 @@ python synthesis.py
 
 - Pre-trained models: [link to model](https://drive.google.com/xxx)
 - Training data (Mongolian): [link to training data](https://xxx)
-- Demo: [link to audio samples](https://ttslr.github.io/CAccentTTS/demo)
+- Demo: [link to audio samples](https://ttslr.github.io/MonTTS/demo)
 
 
 ## Author
