@@ -1,7 +1,6 @@
-# MonTTS
+# MonTTS （ 🚧 Under Construction ）
 
-
-🚧 Under Construction !
+ 
 
 ## 1) Environment Preparation
 
