@@ -34,7 +34,11 @@ Prepare our MonSpeech dataset in the following format:
 
 Where `metadata.csv` has the following format: `id|transcription`. This is a ljspeech-like format.
 
+[Here](https://github.com/ttslr/MonTTS/tree/main/MonSpeech-samples) are some speech samples from our MonSpeech.
+
 You can find MonSpeech in the [Links](#Links) section.
+
+
 
 ## 2) Preprocessing
 
