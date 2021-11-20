@@ -144,12 +144,12 @@ tensorboard --logdir examples/fastspeech2/exp/train.fastspeech2-mon-exp1
 ```
 
 
-[![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)](https://tensorboard.dev/experiment/jt9wpWDfRoaoBGXLfej7PA/)
+[![image](https://github.com/ttslr/MonTTS/blob/main/fig/MonTTS-tensorboard.png)](https://tensorboard.dev/experiment/jt9wpWDfRoaoBGXLfej7PA/)
 
 ```bash
 tensorboard --logdir examples/hifigan/exp/train.hifigan-mon.v1
 ```
-[![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)](https://tensorboard.dev/experiment/7VnCDXguRyquAAfxpvJsOQ/)
+[![image](https://github.com/ttslr/MonTTS/blob/main/fig/hifigan-tensorboard.png)](https://tensorboard.dev/experiment/7VnCDXguRyquAAfxpvJsOQ/)
 
 ## 6) MonTTS Model Inference
 
@@ -185,7 +185,7 @@ python examples/fastspeech2/demo_server.py
 Note that you need to point your browser at localhost:9000 and then type what you want to synthesize.
 
 
-![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
+![image](https://github.com/ttslr/MonTTS/blob/main/fig/demo_server.png)
 
 ## Links
 
@@ -212,3 +212,13 @@ Please kindly cite the following paper if you use this code repository in your w
 ```
 
 
+## Acknowledgements:
+
+
+Tensorflow-TTS: [https://github.com/TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS)
+
+ 
+
+## License
+
+This work is released under MIT License.
