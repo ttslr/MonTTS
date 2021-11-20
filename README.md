@@ -1,4 +1,5 @@
 # MonTTS: A Real-time and High-fidelity Mongolian TTS Model with Complete Non-autoregressive Mechanism 
+# (MonTTS：完全非自回归的实时、高保真蒙古语语音合成模型)
  
 
 ## 0) Environment Preparation
@@ -13,7 +14,7 @@ cd $PROJECT_ROOT_DIR
 
 ### Install dependencies
 ```bash
-conda env create -f Environment/environment.yml
+conda env create -f Environment/environment.yaml
 ```
 
 ### Activate the installed environment
@@ -191,7 +192,7 @@ Note that you need to point your browser at localhost:9000 and then type what yo
 ## Links
 
 - Please contact the [Author](#Author) to access the MonSpeech corpus and Pre-trained models
-- Demo: [link to synthesized audio samples](https://ttslr.github.io/MonTTS/demo)
+- Demo: [link to synthesized audio samples](https://github.com/ttslr/MonTTS/tree/main/prediction/mon_inference_fastspeech2)
 
 
 ## Author
