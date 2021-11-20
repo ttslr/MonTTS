@@ -1,0 +1,15 @@
+mon_00000000|tere helegsen ni tegun-eqe hwixihi gvrban jil bwl jobleltu-yin ergilte-yin qinartai gvrban jil mon gejei
+mon_00000001|ene ni man-v nam-vn teuhen degerehi basa nige gerel saqvraNgvi hagvdasv bwlhv-yvm
+mon_00000003|bayanqagan bayandelger nigedul-un burin bag_a svrgagvli-dv ono jil wbwg_a wlan svrvgqi nemegdeqihel_e
+mon_00000004|iNgiged buhu hvxigvn-v hebqiyen-du xinjilehu vhagan tEgnig mergejil-un uileqilegen-u twwr-i alhvm alhvm-iyar buridugulun_e
+mon_00000005|del nasvtai homun-iyer bwdwjv ujebel homun-u nasvn tvrsihi jiruhen qwhilta ni hwrin tabv d'uNxigvr vdag_a bvi
+mon_00000006|er_e em_e hwgwrwndw-ban yamar nigen yabvdal-dv ujelte nigedhu ugei-eqe bwljv joriqel egushu yabvdal joNdegen gardag
+mon_00000008|vlvs-vn omqilel-un hwyar erhe-yi salgahv tal_a-bar ogereqilelte-yin uiledulge dvmda wlan juil-un amjilta butugel-tei bwdatai helberi-yi egudun butugejei
+mon_00000009|gvW_a saihan-v homujil bwl gwwldagv gvW_a saihan hereg bwdas-vn seren medereju bwlhviqa bwdatai duri-ber damjigvlvn homus-i nologeledeg
+mon_00000010|"wrwlg_a yehe bag_a-yin deNdeguu yehe joriy_e-yi twhiragvlhv bwl neN qv"" turgen svdvlvn xiidburilegusitei nigen asagvdal mon "
+mon_00000012|ene yabvdal-vn job bvrvgv gajigv xilvgvn-v tvhai jwhiyagqi dvr_a-bar-iyan xigumjiley_e geju bwdwhv ugei
+mon_00000013|nige miNg_a yisun jagv nayan nai`man wn-dv tuguhei mat'Eriyal yeheber un_e osugsen sagvrin deger_e monqo hwyar miNg_a tumen togorig-un axig hwnjibvri-yi dabagvlhv-bar tosubleju bain_a
+mon_00000014|egun-eqe ujehu-du amv bvdag_a-yi adgvhv-dv basa dwrwn_a jug-eqe naran mandvl_a gesen dagvv-yi dagvlahv heregtei
+mon_00000015|hanasa ta halagvn naran-dv edurjin ogede vrvgv ugei hesugsen bagatvrhuu tudel ugei tereiju vnan hamar tatagad hvrhiraqil_a
+mon_00000016|geju dab hin bwshv-dv haraNgvi-yin dvmda haltar nwhai ni eNger-eqe ni jagvjv hwixi vhvrin tatajv bail_a
+mon_00000017|ay_a eimu saihan heuhen-iyer ehener-iyen hihu homun-i hwrW_a-yin gajar hagan ejen-eqe ileguu jirgal-tai geju helebequ bwlvn_a d'a
