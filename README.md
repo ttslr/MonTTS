@@ -1,5 +1,4 @@
-# MonTTS: A Real-time and High-fidelity Mongolian TTS Model with Complete Non-autoregressive Mechanism 
-# (MonTTS：完全非自回归的实时、高保真蒙古语语音合成模型)
+# MonTTS: A Real-time and High-fidelity Mongolian TTS Model with Complete Non-autoregressive Mechanism (MonTTS：完全非自回归的实时、高保真蒙古语语音合成模型)
  
 
 ## 0) Environment Preparation
@@ -145,13 +144,12 @@ tensorboard --logdir examples/fastspeech2/exp/train.fastspeech2-mon-exp1
 ```
 
 
-![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
+[![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)](https://tensorboard.dev/experiment/jt9wpWDfRoaoBGXLfej7PA/)
 
 ```bash
 tensorboard --logdir examples/hifigan/exp/train.hifigan-mon.v1
 ```
-
-![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
+[![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)](https://tensorboard.dev/experiment/7VnCDXguRyquAAfxpvJsOQ/)
 
 ## 6) MonTTS Model Inference
 
