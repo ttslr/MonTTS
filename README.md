@@ -206,7 +206,12 @@ Please kindly cite the following paper if you use this code repository in your w
 
 
 ```
- xxx
+ @inproceedings{liu2021montts,
+  title={MonTTS: A Real-time and High-fidelity Mongolian TTS Model with Complete Non-autoregressive Mechanism (in Chinese)},
+  author={Rui, Liu and Shiyin, Kang and Jingdong, Li amd Feilong, Bao and Guanglai, Gao},
+  booktitle={JOURNAL OF CHINESE INFORMATION PROCESSING (中文信息学报)},
+  year={2021}
+}
 
 ```
 
